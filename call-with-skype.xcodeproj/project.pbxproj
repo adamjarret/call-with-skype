@@ -168,19 +168,11 @@
 		661B99DF12622E2000B04C75 /* Automator */ = {
 			isa = PBXGroup;
 			children = (
+				661B993E12622D6200B04C75 /* Call with Skype-Info.plist */,
 				661B99E212622EA500B04C75 /* call-with-skype-automator.h */,
 				661B99E312622EA500B04C75 /* call-with-skype-automator.m */,
-				661B99E912622EEC00B04C75 /* Resources */,
 			);
 			name = Automator;
-			sourceTree = "<group>";
-		};
-		661B99E912622EEC00B04C75 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				661B993E12622D6200B04C75 /* Call with Skype-Info.plist */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 		C6859EA2029092E104C91782 /* Documentation */ = {
