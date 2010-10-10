@@ -7,6 +7,7 @@
 //
 
 #import "CallWithSkypeApp.h"
+#import "SkypeBridge.h"
 
 
 @implementation CallWithSkypeApp
@@ -18,17 +19,6 @@
         return nil;
     
     return self;
-}
-
-- (NSString*) formatPhoneNumberForSkype
-{
-	NSCharacterSet *charactersToRemove =
-	[[ NSCharacterSet decimalDigitCharacterSet ] invertedSet ];
-	
-	NSString *trimmedReplacement =
-	[[ _phoneNumber componentsSeparatedByCharactersInSet:charactersToRemove ] componentsJoinedByString:@""];
-	
-	return trimmedReplacement;
 }
 
 #pragma mark -
@@ -49,7 +39,7 @@
 - (int) application: (DDCliApplication *) app
    runWithArguments: (NSArray *) arguments;
 {
-    ddprintf(@"phoneNumber: %@\n", [self formatPhoneNumberForSkype]);
+	[SkypeBridge callPhoneNumber:_phoneNumber];
     return EXIT_SUCCESS;
 }
 

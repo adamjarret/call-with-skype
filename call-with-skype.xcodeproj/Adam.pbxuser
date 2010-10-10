@@ -52,6 +52,20 @@
 			sepNavVisRange = "{0, 203}";
 		};
 	};
+	661B984612621E8200B04C75 /* DDCliApplication.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 2301}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2458, 1035}";
+		};
+	};
+	661B984712621E8200B04C75 /* DDCliApplication.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 1391}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1481}";
+		};
+	};
 	661B985412621E8A00B04C75 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 08FB7796FE84155DC02AAC07 /* call-with-skype.m */;
@@ -71,6 +85,20 @@
 		rType = 0;
 		vrLen = 202;
 		vrLoc = 0;
+	};
+	661B985612621EED00B04C75 /* CallWithSkypeApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 529}}";
+			sepNavSelRange = "{311, 0}";
+			sepNavVisRange = "{0, 321}";
+		};
+	};
+	661B985712621EED00B04C75 /* CallWithSkypeApp.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1199, 806}}";
+			sepNavSelRange = "{684, 0}";
+			sepNavVisRange = "{0, 1347}";
+		};
 	};
 	6694D15012621BE4007F516B /* call-with-skype */ = {
 		isa = PBXExecutable;

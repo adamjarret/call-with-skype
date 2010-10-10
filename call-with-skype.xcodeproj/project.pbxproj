@@ -12,6 +12,7 @@
 		661B985112621E8200B04C75 /* DDCliUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 661B984B12621E8200B04C75 /* DDCliUtil.m */; };
 		661B985212621E8200B04C75 /* DDGetoptLongParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 661B984E12621E8200B04C75 /* DDGetoptLongParser.m */; };
 		661B985812621EED00B04C75 /* CallWithSkypeApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 661B985712621EED00B04C75 /* CallWithSkypeApp.m */; };
+		661B98801262251800B04C75 /* SkypeBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 661B987F1262251800B04C75 /* SkypeBridge.m */; };
 		8DD76F9A0486AA7600D96B5E /* call-with-skype.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* call-with-skype.m */; settings = {ATTRIBUTES = (); }; };
 		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
 		8DD76F9F0486AA7600D96B5E /* call-with-skype.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859EA3029092ED04C91782 /* call-with-skype.1 */; };
@@ -45,6 +46,8 @@
 		661B984E12621E8200B04C75 /* DDGetoptLongParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDGetoptLongParser.m; sourceTree = "<group>"; };
 		661B985612621EED00B04C75 /* CallWithSkypeApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CallWithSkypeApp.h; sourceTree = "<group>"; };
 		661B985712621EED00B04C75 /* CallWithSkypeApp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CallWithSkypeApp.m; sourceTree = "<group>"; };
+		661B987E1262251800B04C75 /* SkypeBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SkypeBridge.h; sourceTree = "<group>"; };
+		661B987F1262251800B04C75 /* SkypeBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SkypeBridge.m; sourceTree = "<group>"; };
 		8DD76FA10486AA7600D96B5E /* call-with-skype */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "call-with-skype"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6859EA3029092ED04C91782 /* call-with-skype.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "call-with-skype.1"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -80,6 +83,8 @@
 				08FB7796FE84155DC02AAC07 /* call-with-skype.m */,
 				661B985612621EED00B04C75 /* CallWithSkypeApp.h */,
 				661B985712621EED00B04C75 /* CallWithSkypeApp.m */,
+				661B987E1262251800B04C75 /* SkypeBridge.h */,
+				661B987F1262251800B04C75 /* SkypeBridge.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -180,6 +185,7 @@
 				661B985112621E8200B04C75 /* DDCliUtil.m in Sources */,
 				661B985212621E8200B04C75 /* DDGetoptLongParser.m in Sources */,
 				661B985812621EED00B04C75 /* CallWithSkypeApp.m in Sources */,
+				661B98801262251800B04C75 /* SkypeBridge.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
