@@ -1,0 +1,125 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6694D15012621BE4007F516B /* call-with-skype */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* call-with-skype */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* call-with-skype */,
+		);
+		codeSenseManager = 6694D16E12621BF4007F516B /* Code sense */;
+		executables = (
+			6694D15012621BE4007F516B /* call-with-skype */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					538,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308419637;
+			PBXWorkspaceStateSaveDate = 308419637;
+		};
+		perUserProjectItems = {
+			661B985412621E8A00B04C75 /* PBXTextBookmark */ = 661B985412621E8A00B04C75 /* PBXTextBookmark */;
+			661B985512621E8A00B04C75 /* PBXTextBookmark */ = 661B985512621E8A00B04C75 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6694D16D12621BF4007F516B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* call-with-skype.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 529}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 203}";
+		};
+	};
+	661B985412621E8A00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* call-with-skype.m */;
+		name = "call-with-skype.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	661B985512621E8A00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* call-with-skype.m */;
+		name = "call-with-skype.m: 6";
+		rLen = 0;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 0;
+	};
+	6694D15012621BE4007F516B /* call-with-skype */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "call-with-skype";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6694D16D12621BF4007F516B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6694D16E12621BF4007F516B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F960486AA7600D96B5E /* call-with-skype */ = {
+		activeExec = 0;
+		executables = (
+			6694D15012621BE4007F516B /* call-with-skype */,
+		);
+	};
+}
