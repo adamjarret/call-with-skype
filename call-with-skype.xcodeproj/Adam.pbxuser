@@ -3,9 +3,9 @@
 	08FB7793FE84155DC02AAC07 /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 6694D15012621BE4007F516B /* call-with-skype */;
-		activeTarget = 8DD76F960486AA7600D96B5E /* call-with-skype */;
+		activeTarget = 661B993C12622D6200B04C75 /* Call with Skype */;
 		addToTargets = (
-			8DD76F960486AA7600D96B5E /* call-with-skype */,
+			661B993C12622D6200B04C75 /* Call with Skype */,
 		);
 		codeSenseManager = 6694D16E12621BF4007F516B /* Code sense */;
 		executables = (
@@ -17,7 +17,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					538,
+					935,
 					20,
 					48,
 					43,
@@ -34,12 +34,45 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 308419637;
-			PBXWorkspaceStateSaveDate = 308419637;
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					895,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308424009;
+			PBXWorkspaceStateSaveDate = 308424009;
 		};
 		perUserProjectItems = {
-			661B985412621E8A00B04C75 /* PBXTextBookmark */ = 661B985412621E8A00B04C75 /* PBXTextBookmark */;
-			661B985512621E8A00B04C75 /* PBXTextBookmark */ = 661B985512621E8A00B04C75 /* PBXTextBookmark */;
+			661B985412621E8A00B04C75 = 661B985412621E8A00B04C75 /* PBXTextBookmark */;
+			661B985512621E8A00B04C75 = 661B985512621E8A00B04C75 /* PBXTextBookmark */;
+			661B99EE12622F1600B04C75 /* PBXTextBookmark */ = 661B99EE12622F1600B04C75 /* PBXTextBookmark */;
+			661B99EF12622F1600B04C75 /* PBXBookmark */ = 661B99EF12622F1600B04C75 /* PBXBookmark */;
+			661B99F012622F1600B04C75 /* PlistBookmark */ = 661B99F012622F1600B04C75 /* PlistBookmark */;
+			661B99FD12622FC200B04C75 /* PlistBookmark */ = 661B99FD12622FC200B04C75 /* PlistBookmark */;
+			661B99FE12622FC200B04C75 /* PBXTextBookmark */ = 661B99FE12622FC200B04C75 /* PBXTextBookmark */;
+			661B99FF12622FC200B04C75 /* PBXTextBookmark */ = 661B99FF12622FC200B04C75 /* PBXTextBookmark */;
+			661B9A391262320A00B04C75 /* PlistBookmark */ = 661B9A391262320A00B04C75 /* PlistBookmark */;
+			661B9A3A1262320A00B04C75 /* PlistBookmark */ = 661B9A3A1262320A00B04C75 /* PlistBookmark */;
+			661B9A4D1262338A00B04C75 /* PlistBookmark */ = 661B9A4D1262338A00B04C75 /* PlistBookmark */;
+			661B9A4E1262338A00B04C75 /* PBXBookmark */ = 661B9A4E1262338A00B04C75 /* PBXBookmark */;
+			661B9A4F1262338A00B04C75 /* PlistBookmark */ = 661B9A4F1262338A00B04C75 /* PlistBookmark */;
 		};
 		sourceControlManager = 6694D16D12621BF4007F516B /* Source Control */;
 		userBuildSettings = {
@@ -99,6 +132,148 @@
 			sepNavSelRange = "{684, 0}";
 			sepNavVisRange = "{0, 1347}";
 		};
+	};
+	661B987E1262251800B04C75 /* SkypeBridge.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 731}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	661B993C12622D6200B04C75 /* Call with Skype */ = {
+		activeExec = 0;
+	};
+	661B99EE12622F1600B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B987E1262251800B04C75 /* SkypeBridge.h */;
+		name = "SkypeBridge.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	661B99EF12622F1600B04C75 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+	};
+	661B99F012622F1600B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B99F512622F9700B04C75 /* English */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.strings;
+		name = English;
+		path = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/English.lproj/InfoPlist.strings";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2413, 731}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3136}";
+			sepNavWindowFrame = "{{15, 71}, {1629, 1107}}";
+		};
+	};
+	661B99FD12622FC200B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B99FE12622FC200B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99F512622F9700B04C75 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3136;
+		vrLoc = 0;
+	};
+	661B99FF12622FC200B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99F512622F9700B04C75 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3136;
+		vrLoc = 0;
+	};
+	661B9A341262320900B04C75 /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		path = Info.plist;
+		sourceTree = "<group>";
+	};
+	661B9A391262320A00B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			AMDescription,
+			AMDNote,
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9A3A1262320A00B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9A4D1262338A00B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9A4E1262338A00B04C75 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 661B9A341262320900B04C75 /* Info.plist */;
+	};
+	661B9A4F1262338A00B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B9A501262338A00B04C75 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/build/Debug/Call with Skype.action/Contents/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9A501262338A00B04C75 /* Info.plist */ = {
+		isa = PBXFileReference;
+		name = Info.plist;
+		path = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/build/Debug/Call with Skype.action/Contents/Info.plist";
+		sourceTree = "<absolute>";
 	};
 	6694D15012621BE4007F516B /* call-with-skype */ = {
 		isa = PBXExecutable;
