@@ -284,6 +284,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
+									<integer>24</integer>
+									<integer>23</integer>
 									<integer>22</integer>
 									<integer>20</integer>
 									<integer>0</integer>
@@ -309,7 +311,7 @@
 							<real>272</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>301 128 1468 1002 0 0 1920 1178 </string>
+						<string>301 127 1468 1002 0 0 1920 1178 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -337,12 +339,14 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>661B9A4F1262338A00B04C75</string>
+										<string>661B9A761262362C00B04C75</string>
 										<key>history</key>
 										<array>
 											<string>661B99EE12622F1600B04C75</string>
-											<string>661B9A4D1262338A00B04C75</string>
-											<string>661B9A4E1262338A00B04C75</string>
+											<string>661B9A69126235BC00B04C75</string>
+											<string>661B9A6A126235BC00B04C75</string>
+											<string>661B9A751262362C00B04C75</string>
+											<string>661B9A561262341A00B04C75</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -356,7 +360,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1174, 763}}</string>
 								<key>RubberWindowFrame</key>
-								<string>301 128 1468 1002 0 0 1920 1178 </string>
+								<string>301 127 1468 1002 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -376,7 +380,7 @@
 								<key>Frame</key>
 								<string>{{0, 768}, {1174, 193}}</string>
 								<key>RubberWindowFrame</key>
-								<string>301 128 1468 1002 0 0 1920 1178 </string>
+								<string>301 127 1468 1002 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -545,7 +549,7 @@
 		<string>/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/call-with-skype.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>301 128 1468 1002 0 0 1920 1178 </string>
+	<string>301 127 1468 1002 0 0 1920 1178 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -1,6 +1,6 @@
 //
 //  call-with-skype-automator.h
-//  call-with-skype-automator
+//  call-with-skype
 //
 //  Created by Adam Jarret on 10/10/10.
 //  Copyright (c) 2010 Adam Jarret, All Rights Reserved.
