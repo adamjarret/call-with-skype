@@ -82,6 +82,20 @@
 			661B9A6F1262360600B04C75 /* PBXTextBookmark */ = 661B9A6F1262360600B04C75 /* PBXTextBookmark */;
 			661B9A751262362C00B04C75 /* PBXTextBookmark */ = 661B9A751262362C00B04C75 /* PBXTextBookmark */;
 			661B9A761262362C00B04C75 /* PlistBookmark */ = 661B9A761262362C00B04C75 /* PlistBookmark */;
+			661B9A8012623AA000B04C75 /* PlistBookmark */ = 661B9A8012623AA000B04C75 /* PlistBookmark */;
+			661B9A8112623AA000B04C75 /* PlistBookmark */ = 661B9A8112623AA000B04C75 /* PlistBookmark */;
+			661B9A8212623AA000B04C75 /* PBXTextBookmark */ = 661B9A8212623AA000B04C75 /* PBXTextBookmark */;
+			661B9A8312623AA000B04C75 /* PBXTextBookmark */ = 661B9A8312623AA000B04C75 /* PBXTextBookmark */;
+			661B9A9D12623B5B00B04C75 /* PBXTextBookmark */ = 661B9A9D12623B5B00B04C75 /* PBXTextBookmark */;
+			661B9A9E12623B5B00B04C75 /* PBXTextBookmark */ = 661B9A9E12623B5B00B04C75 /* PBXTextBookmark */;
+			661B9A9F12623B5B00B04C75 /* PlistBookmark */ = 661B9A9F12623B5B00B04C75 /* PlistBookmark */;
+			661B9AA012623B5B00B04C75 /* PlistBookmark */ = 661B9AA012623B5B00B04C75 /* PlistBookmark */;
+			661B9AA612623BFE00B04C75 /* PlistBookmark */ = 661B9AA612623BFE00B04C75 /* PlistBookmark */;
+			661B9AA712623BFE00B04C75 /* PBXTextBookmark */ = 661B9AA712623BFE00B04C75 /* PBXTextBookmark */;
+			661B9AA812623BFE00B04C75 /* PBXTextBookmark */ = 661B9AA812623BFE00B04C75 /* PBXTextBookmark */;
+			661B9AA912623BFE00B04C75 /* PBXTextBookmark */ = 661B9AA912623BFE00B04C75 /* PBXTextBookmark */;
+			661B9AAA12623BFE00B04C75 /* PBXTextBookmark */ = 661B9AAA12623BFE00B04C75 /* PBXTextBookmark */;
+			661B9AAB12623BFE00B04C75 /* PBXTextBookmark */ = 661B9AAB12623BFE00B04C75 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 6694D16D12621BF4007F516B /* Source Control */;
 		userBuildSettings = {
@@ -89,7 +103,7 @@
 	};
 	08FB7796FE84155DC02AAC07 /* call-with-skype.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {716, 529}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 731}}";
 			sepNavSelRange = "{191, 0}";
 			sepNavVisRange = "{0, 203}";
 		};
@@ -115,7 +129,7 @@
 		rLen = 0;
 		rLoc = 0;
 		rType = 0;
-		vrLen = 234;
+		vrLen = 203;
 		vrLoc = 0;
 	};
 	661B985512621E8A00B04C75 /* PBXTextBookmark */ = {
@@ -137,9 +151,9 @@
 	};
 	661B985712621EED00B04C75 /* CallWithSkypeApp.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1199, 806}}";
-			sepNavSelRange = "{684, 0}";
-			sepNavVisRange = "{0, 1347}";
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 731}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 940}";
 		};
 	};
 	661B987E1262251800B04C75 /* SkypeBridge.h */ = {
@@ -147,6 +161,13 @@
 			sepNavIntBoundsRect = "{{0, 0}, {1113, 731}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 325}";
+		};
+	};
+	661B987F1262251800B04C75 /* SkypeBridge.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 731}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1228}";
 		};
 	};
 	661B993C12622D6200B04C75 /* Call with Skype */ = {
@@ -162,8 +183,8 @@
 	661B99E312622EA500B04C75 /* call-with-skype-automator.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1113, 731}}";
-			sepNavSelRange = "{402, 0}";
-			sepNavVisRange = "{0, 485}";
+			sepNavSelRange = "{418, 0}";
+			sepNavVisRange = "{0, 445}";
 		};
 	};
 	661B99EE12622F1600B04C75 /* PBXTextBookmark */ = {
@@ -365,7 +386,7 @@
 		fRef = 661B99E312622EA500B04C75 /* call-with-skype-automator.m */;
 		name = "call-with-skype-automator.m: 21";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 445;
 		rType = 0;
 		vrLen = 433;
 		vrLoc = 0;
@@ -375,7 +396,7 @@
 		fRef = 661B99E312622EA500B04C75 /* call-with-skype-automator.m */;
 		name = "call-with-skype-automator.m: 16";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 485;
 		vrLoc = 0;
@@ -385,7 +406,7 @@
 		fRef = 661B99E312622EA500B04C75 /* call-with-skype-automator.m */;
 		name = "call-with-skype-automator.m: 16";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 485;
 		vrLoc = 0;
@@ -400,6 +421,152 @@
 		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/build/Debug/Call with Skype.action/Contents/Info.plist";
 		rLen = 0;
 		rLoc = 9223372036854775807;
+	};
+	661B9A8012623AA000B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B9A571262341A00B04C75 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/build/Debug/Call with Skype.action/Contents/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9A8112623AA000B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9A8212623AA000B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99E312622EA500B04C75 /* call-with-skype-automator.m */;
+		name = "call-with-skype-automator.m: 16";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	661B9A8312623AA000B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99E312622EA500B04C75 /* call-with-skype-automator.m */;
+		name = "call-with-skype-automator.m: 17";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 0;
+	};
+	661B9A9D12623B5B00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99E212622EA500B04C75 /* call-with-skype-automator.h */;
+		name = "call-with-skype-automator.h: 3";
+		rLen = 0;
+		rLoc = 54;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	661B9A9E12623B5B00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99E312622EA500B04C75 /* call-with-skype-automator.m */;
+		name = "call-with-skype-automator.m: 12";
+		rLen = 25;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 0;
+	};
+	661B9A9F12623B5B00B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 19;
+		rLoc = 0;
+	};
+	661B9AA012623B5B00B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9AA612623BFE00B04C75 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 661B993E12622D6200B04C75 /* Call with Skype-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/[Projects]/Cocoa/call-with-skype/Call with Skype-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	661B9AA712623BFE00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B985712621EED00B04C75 /* CallWithSkypeApp.m */;
+		name = "CallWithSkypeApp.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 940;
+		vrLoc = 0;
+	};
+	661B9AA812623BFE00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* call-with-skype.m */;
+		name = "call-with-skype.m: 7";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	661B9AA912623BFE00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B987F1262251800B04C75 /* SkypeBridge.m */;
+		name = "SkypeBridge.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1228;
+		vrLoc = 0;
+	};
+	661B9AAA12623BFE00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99E212622EA500B04C75 /* call-with-skype-automator.h */;
+		name = "call-with-skype-automator.h: 3";
+		rLen = 0;
+		rLoc = 54;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	661B9AAB12623BFE00B04C75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661B99E312622EA500B04C75 /* call-with-skype-automator.m */;
+		name = "call-with-skype-automator.m: 16";
+		rLen = 0;
+		rLoc = 418;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
 	};
 	6694D15012621BE4007F516B /* call-with-skype */ = {
 		isa = PBXExecutable;

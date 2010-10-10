@@ -13,8 +13,7 @@
 
 - (id)runWithInput:(id)input fromAction:(AMAction *)anAction error:(NSDictionary **)errorInfo
 {
-	NSLog(@"call-with-skype-automator input:", input);
-	[SkypeBridge callPhoneNumber:(NSString*)input];
+	[SkypeBridge callPhoneNumber:[(NSArray*)input lastObject]];
 	return input;
 }
 
